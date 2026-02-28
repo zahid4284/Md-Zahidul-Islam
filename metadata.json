@@ -1,0 +1,5 @@
+{
+  "name": "VoltThermal: EV Battery Thermal Efficiency Lab",
+  "description": "A professional-grade simulator and analyzer for electric vehicle battery thermal efficiency, heat generation, and cooling performance.",
+  "requestFramePermissions": []
+}
